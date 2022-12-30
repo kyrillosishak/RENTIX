@@ -33,8 +33,8 @@ Insert gif or link to demo
 ## Authors
 
 - [@kyrillos Ishak](https://www.github.com/kyrillosishak)
-- [@Ahmed Falah](https://www.github.com/octokatherine)
-- [@Alaa Hossam](https://www.github.com/octokatherine)
+- [@Ahmed Falah](https://github.com/ahmedfalah01)
+- [@Alaa Hossam](https://github.com/alaahossam)
 
 
 
