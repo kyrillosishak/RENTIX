@@ -27,7 +27,7 @@ Some Features :
 
 ## Demo
 
-Insert gif or link to demo
+For Live and Dynamic Demo check [RENTIX](http://172.174.253.217/RENTIX/) it is a Microsoft Azure hosted site
 
 
 ## Authors
