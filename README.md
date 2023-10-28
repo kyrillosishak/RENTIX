@@ -25,10 +25,6 @@ Some Features :
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Demo
-
-For Live and Dynamic Demo check [RENTIX](http://172.174.253.217/RENTIX/) it is a Microsoft Azure hosted site
-
 
 ## Authors
 
