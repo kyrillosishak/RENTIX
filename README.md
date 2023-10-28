@@ -39,9 +39,6 @@ Some Features :
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![Logo](https://github.com/kyrillosishak/RENTIX/blob/main/screenshots/p.png?raw=true)
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/kyrillosishak/RENTIX/blob/main/screenshots/Screenshot%20(332).png?raw=true)
