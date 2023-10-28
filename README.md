@@ -26,14 +26,6 @@ Some Features :
 
 
 
-## Authors
-
-- [@kyrillos Ishak](https://www.github.com/kyrillosishak)
-- [@Ahmed Falah](https://github.com/ahmedfalah01)
-- [@Alaa Hossam](https://github.com/alaahossam)
-
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
