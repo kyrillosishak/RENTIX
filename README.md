@@ -18,17 +18,37 @@ Some Features :
 - The status of all cars on a specific day.
 - All reservations of specific customer including customer information, car model and plate id.
 - Daily payments within specific period.
-## Badges
+- 
+## Prerequisites
+Apache Server: Ensure you have Apache installed on your machine. You can download it from [here](https://httpd.apache.org/download.cgi).
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+PHP: RENTIX is built on PHP, so make sure you have PHP installed. You can download it from [here](https://www.php.net/downloads).
 
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+MySQL Database: Set up a MySQL database and configure it with phpMyAdmin for seamless data management.
 
+## Installation Steps
+- Clone the Repository:
 
+```bash
+git clone https://github.com/kyrillosishak/RENTIX.git
+```
+- Navigate to the Project Directory:
 
-## License
+```bash
+cd RENTIX
+```
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- Database Setup:
+
+Import the provided SQL file (rentix_database.sql) into your MySQL database using phpMyAdmin.
+
+- Update Configuration:
+
+Update the database connection details in the config.php file.
+
+- Access RENTIX:
+
+Open your web browser and navigate to http://localhost to start using RENTIX.
 
 
 ## Screenshots
